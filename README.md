@@ -1,1 +1,3 @@
-First Neural Network made with the Pytorch 
+# PyTorch Projects
+
+Welcome to the **PyTorch Projects** repository! 🎉 This repo contains a collection of projects built using PyTorch. 
